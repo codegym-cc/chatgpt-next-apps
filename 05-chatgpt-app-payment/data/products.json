@@ -1,0 +1,68 @@
+[
+  {
+    "sku": "sticker-pack",
+    "title": "Sticker Pack",
+    "description": "A pack of 8 durable vinyl stickers for laptops and water bottles.",
+    "price": 5,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=Sticker+Pack",
+    "category": "Merch",
+    "inStock": true,
+    "sellerUrl": "https://example.com/products/sticker-pack"
+  },
+  {
+    "sku": "mug-classic",
+    "title": "Classic Mug",
+    "description": "Ceramic mug, 12oz. Dishwasher safe.",
+    "price": 12,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=Classic+Mug",
+    "category": "Merch",
+    "inStock": true,
+    "sellerUrl": "https://example.com/products/mug-classic"
+  },
+  {
+    "sku": "tshirt-soft",
+    "title": "Soft T‑Shirt",
+    "description": "Soft cotton T‑shirt with a minimal logo.",
+    "price": 20,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=Soft+T-Shirt",
+    "category": "Merch",
+    "inStock": true,
+    "sellerUrl": "https://example.com/products/tshirt-soft"
+  },
+  {
+    "sku": "notebook-a5",
+    "title": "A5 Notebook",
+    "description": "Plain pages, 120 sheets. Perfect for sketches and notes.",
+    "price": 9,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=A5+Notebook",
+    "category": "Stationery",
+    "inStock": true,
+    "sellerUrl": "https://example.com/products/notebook-a5"
+  },
+  {
+    "sku": "giftcard-25",
+    "title": "Gift Card $25",
+    "description": "Digital gift card delivered by email (demo item).",
+    "price": 25,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=Gift+Card+%2425",
+    "category": "Gift Cards",
+    "inStock": true,
+    "sellerUrl": "https://example.com/products/giftcard-25"
+  },
+  {
+    "sku": "poster-limited",
+    "title": "Limited Poster",
+    "description": "Limited edition poster (out of stock to demonstrate invariant).",
+    "price": 30,
+    "currency": "USD",
+    "imageUrl": "https://placehold.co/600x400/png?text=Limited+Poster",
+    "category": "Merch",
+    "inStock": false,
+    "sellerUrl": "https://example.com/products/poster-limited"
+  }
+]
