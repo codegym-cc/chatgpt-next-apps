@@ -1,0 +1,38 @@
+{
+  "name": "05-chatgpt-app-payment",
+  "version": "1.0.0",
+  "private": true,
+  "engines": {
+    "node": ">=20.9.0"
+  },
+  "scripts": {
+    "dev": "next dev --turbopack",
+    "build": "next build --turbopack",
+    "start": "next start",
+    "lint": "next lint",
+    "lint:fix": "next lint --fix",
+    "typecheck": "tsc --noEmit",
+    "rebuild": "npm run clean && npm run build"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "1.24.3",
+    "mcp-handler": "1.0.4",
+    "next": "16.0.10",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
+    "zod": "4.1.13"
+  },
+  "devDependencies": {
+    "@tailwindcss/postcss": "4.1.18",
+    "@types/jsdom": "27.0.0",
+    "@types/node": "24.10.1",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
+    "eslint": "9.39.1",
+    "eslint-config-next": "16.0.10",
+    "jsdom": "27.3.0",
+    "postcss": "8.5.6",
+    "tailwindcss": "4.1.18",
+    "typescript": "5.9.3"
+  }
+}
